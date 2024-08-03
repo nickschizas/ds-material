@@ -1,1 +1,1 @@
-# ds-material
+# Data Science Material
